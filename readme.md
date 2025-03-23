@@ -8,7 +8,7 @@ This project contains development container config files which make it easier to
  - _Dev Containers_ VSCode extension 
 
 ## Getting Started
-1. Create a copy of this template
+1. Create a copy of this template (`Use this template` - green button on the top right in GitHub)
 2. Clone your repository into a local folder.
 3. Open the folder in VSCode
 4. Make sure docker has already started on your system
