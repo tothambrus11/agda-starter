@@ -1,0 +1,14 @@
+{
+  "name": "Agda Development Container",
+  "build": {
+      "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+      "vscode": {
+          "extensions": [
+              "banacorn.agda-mode",
+              "j-mueller.agda"
+          ]
+      }
+  }
+}
